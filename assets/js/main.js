@@ -9,7 +9,7 @@ const app = new Vue(
         el : "#app",
         data : {
             message : "Welcome to Vue JS!",
-            image_logo : `src="./assets/img/vue.png`
+            image_logo : src=`./assets/img/vue.png`
         }
     }
 )
