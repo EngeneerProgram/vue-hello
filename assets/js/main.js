@@ -8,7 +8,8 @@ const app = new Vue(
         // --- 2 dichiarazione container
         el : "#app",
         data : {
-            message : "ciao mondo!!!"
+            message : "Welcome to Vue JS!",
+            image_logo : <img src="assets/img/vue.png"></img>
         }
     }
 )
